@@ -7,6 +7,7 @@
 
 > Albus Dumbledore and Minerva McGonagall, *Cats and Witches*, Journal of Ethical Transformation (2010). [[preprint]](https://warxiv.org/cats.pdf)
 
-## Find me on:
+### Find me on:
 
-[<img src="pictures/orcid.svg" alt="drawing" width="20"/>](https://en.wikipedia.org/wiki/Albus_Dumbledore) [<img src="pictures/googlescholar.png" alt="drawing" width="20"/>](https://en.wikipedia.org/wiki/Albus_Dumbledore) [<img src="pictures/triwizard.jpeg" alt="drawing" width="20"/>](https://en.wikipedia.org/wiki/Albus_Dumbledore)
+| [<img src="pictures/orcid.svg" alt="drawing" width="20"/>](https://en.wikipedia.org/wiki/Albus_Dumbledore) | [<img src="pictures/googlescholar.png" alt="drawing" width="20"/>](https://en.wikipedia.org/wiki/Albus_Dumbledore) | [<img src="pictures/triwizard.jpeg" alt="drawing" width="20"/>](https://en.wikipedia.org/wiki/Albus_Dumbledore) |
+| --- | --- | --- |
